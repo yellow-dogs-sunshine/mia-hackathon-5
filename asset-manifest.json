@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mia-hackathon-5/static/css/main.b100e6da.chunk.css",
-    "main.js": "/mia-hackathon-5/static/js/main.ec25e9fd.chunk.js",
-    "main.js.map": "/mia-hackathon-5/static/js/main.ec25e9fd.chunk.js.map",
+    "main.js": "/mia-hackathon-5/static/js/main.a6bc0837.chunk.js",
+    "main.js.map": "/mia-hackathon-5/static/js/main.a6bc0837.chunk.js.map",
     "runtime-main.js": "/mia-hackathon-5/static/js/runtime-main.d75a164c.js",
     "runtime-main.js.map": "/mia-hackathon-5/static/js/runtime-main.d75a164c.js.map",
-    "static/js/2.f62c5963.chunk.js": "/mia-hackathon-5/static/js/2.f62c5963.chunk.js",
-    "static/js/2.f62c5963.chunk.js.map": "/mia-hackathon-5/static/js/2.f62c5963.chunk.js.map",
+    "static/js/2.301c5f11.chunk.js": "/mia-hackathon-5/static/js/2.301c5f11.chunk.js",
+    "static/js/2.301c5f11.chunk.js.map": "/mia-hackathon-5/static/js/2.301c5f11.chunk.js.map",
     "index.html": "/mia-hackathon-5/index.html",
-    "precache-manifest.c1c9e5135643767098e982ae93519164.js": "/mia-hackathon-5/precache-manifest.c1c9e5135643767098e982ae93519164.js",
+    "precache-manifest.2d48adc92604180618a1946ce3bc7785.js": "/mia-hackathon-5/precache-manifest.2d48adc92604180618a1946ce3bc7785.js",
     "service-worker.js": "/mia-hackathon-5/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/mia-hackathon-5/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/mia-hackathon-5/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d75a164c.js",
-    "static/js/2.f62c5963.chunk.js",
+    "static/js/2.301c5f11.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.ec25e9fd.chunk.js"
+    "static/js/main.a6bc0837.chunk.js"
   ]
 }
