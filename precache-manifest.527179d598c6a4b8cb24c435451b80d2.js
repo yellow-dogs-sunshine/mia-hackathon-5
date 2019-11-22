@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01434ec3863ea6261e1d7dab35dc3d18",
+    "revision": "7af97f1279a24d112b4df2d0a8184994",
     "url": "/mia-hackathon-5/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mia-hackathon-5/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "9461293de7e327349519",
-    "url": "/mia-hackathon-5/static/css/main.b70551f8.chunk.css"
+    "revision": "631b3c44bffec72fb393",
+    "url": "/mia-hackathon-5/static/css/main.af8a55ed.chunk.css"
   },
   {
     "revision": "91411562c9bf5d58b20d",
     "url": "/mia-hackathon-5/static/js/2.24e69597.chunk.js"
   },
   {
-    "revision": "9461293de7e327349519",
-    "url": "/mia-hackathon-5/static/js/main.853ae76e.chunk.js"
+    "revision": "631b3c44bffec72fb393",
+    "url": "/mia-hackathon-5/static/js/main.8601c9cf.chunk.js"
   },
   {
     "revision": "8278d747b94b5ce73314",
