@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6d5aea8d850eafd44d7f265bd5b62e0",
+    "revision": "1b46b1ddd81604560191b1adef626731",
     "url": "/mia-hackathon-5/index.html"
   },
   {
-    "revision": "2ac8cdcc29c638ba1a67",
+    "revision": "590b6d68944f2063e48e",
     "url": "/mia-hackathon-5/static/css/main.b100e6da.chunk.css"
   },
   {
-    "revision": "6b691c21ab9a3b317db5",
-    "url": "/mia-hackathon-5/static/js/2.f62c5963.chunk.js"
+    "revision": "dfc53f3cc68de5930138",
+    "url": "/mia-hackathon-5/static/js/2.301c5f11.chunk.js"
   },
   {
-    "revision": "2ac8cdcc29c638ba1a67",
-    "url": "/mia-hackathon-5/static/js/main.1b224c6e.chunk.js"
+    "revision": "590b6d68944f2063e48e",
+    "url": "/mia-hackathon-5/static/js/main.624aa771.chunk.js"
   },
   {
     "revision": "8278d747b94b5ce73314",
