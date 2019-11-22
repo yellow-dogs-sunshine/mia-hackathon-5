@@ -1,9 +1,10 @@
 import React from "react";
 
+import { Navbar } from "react-bootstrap";
 import "./Menu.css";
-export default function Navbar() {
+export default function Menu() {
   return (
-    <div className="navbar-container">
+    <Navbar className="navbar-container">
       <p className="logo">CL</p>
       <div className="crumbs-container">
         <button></button>
@@ -12,6 +13,6 @@ export default function Navbar() {
         <button></button>
       </div>
       <p>User Icon will be here</p>
-    </div>
+    </Navbar>
   );
 }
