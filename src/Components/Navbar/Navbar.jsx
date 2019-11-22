@@ -3,7 +3,7 @@ import React from "react";
 import "./Navbar.css";
 export default function Navbar() {
   return (
-    <div className="navbar">
+    <div className="navbar-container">
       <h1>Logo will be here</h1>
       <button></button>
       <button></button>
