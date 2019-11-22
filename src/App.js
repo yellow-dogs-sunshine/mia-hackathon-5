@@ -21,8 +21,6 @@ showCard = () =>{
 }
 render () {
   console.log("this is list", this.state.list);
-
-function App() {
   return (
     <div className="App">
       <Menu />
