@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mia-hackathon-5/precache-manifest.527179d598c6a4b8cb24c435451b80d2.js"
+  "/mia-hackathon-5/precache-manifest.bc1fcf326c3b89a4438e35782c59b92e.js"
 );
 
 self.addEventListener('message', (event) => {
