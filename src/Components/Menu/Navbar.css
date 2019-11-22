@@ -2,7 +2,18 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+
+  background-color: darkgreen;
+  padding: 0 1px;
 }
+
+.logo {
+  background-color: azure;
+  border-radius: 50%;
+  padding: 5px;
+  text-align: center;
+}
+
 .crumbs-container {
   /* align-items: center;
   justify-items: center; */

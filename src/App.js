@@ -3,7 +3,7 @@ import "./App.css";
 
 import Cardjson from "./craigslist.json";
 
-import Navbar from "./Components/Navbar/Navbar";
+import Navbar from "./Components/Menu/Navbar";
 function App() {
   return (
     <div className="App">
