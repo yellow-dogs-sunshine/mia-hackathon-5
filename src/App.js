@@ -18,7 +18,7 @@ export default class App extends Component {
     });
   };
   render() {
-    console.log("this is list", this.state.list);
+    // console.log("this is list", this.state.list);
 
     return (
       <div className="App">
