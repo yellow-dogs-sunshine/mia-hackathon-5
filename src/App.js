@@ -3,6 +3,7 @@ import "./App.css";
 // import Navbar from './components/Navbar';
 import Cardjson from './craigslist.json';
 import Card from './Components/Card/card';
+import Menu from "./Components/Menu/Menu";
 
 class App extends Component {
   constructor(props){
@@ -20,8 +21,11 @@ showCard = () =>{
 }
 render () {
   console.log("this is list", this.state.list);
+
+function App() {
   return (
     <div className="App">
+      <Menu />
       <h1>Craigslist Mock Up</h1>
       {/* <Navbar></Navbar> */}
       <div className="gallery">
