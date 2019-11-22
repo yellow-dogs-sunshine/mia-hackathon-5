@@ -1,14 +1,13 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
+import Navbar from './components/Navbar';
+import Cardjson from '../public/craigslist.json';
 
-function App() {
+class App extends Component {
   return (
     <div className="App">
       <h1>Craigslist Mock Up</h1>
-      <nav>
-        <div className="logo">Logo</div>
-      </nav>
+      <Navbar></Navbar>
     </div>
   );
 }
