@@ -23,7 +23,7 @@ export default class App extends Component {
     return (
       <div className="App">
         <Menu />
-        <h1>Craigslist Mock Up</h1>
+        <h1>Craigslist says what</h1>
         <div className="gallery">{this.showCard()}</div>
       </div>
     );
