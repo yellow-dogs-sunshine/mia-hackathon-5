@@ -14,8 +14,7 @@ export default function Menu() {
         <Breadcrumb.Item>sub-categories</Breadcrumb.Item>
       </Breadcrumb>
 
-      <img className="navlogo" src="./user_logo.png" alt="" />
-      <p>User Icon will be here</p>
+      <img className="navlogo" src="./user_icon.png" alt="" />
     </Navbar>
   );
 }
