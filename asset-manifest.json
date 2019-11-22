@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mia-hackathon-5/static/css/main.b100e6da.chunk.css",
+    "main.js": "/mia-hackathon-5/static/js/main.1b224c6e.chunk.js",
+    "main.js.map": "/mia-hackathon-5/static/js/main.1b224c6e.chunk.js.map",
+    "runtime-main.js": "/mia-hackathon-5/static/js/runtime-main.d75a164c.js",
+    "runtime-main.js.map": "/mia-hackathon-5/static/js/runtime-main.d75a164c.js.map",
+    "static/js/2.f62c5963.chunk.js": "/mia-hackathon-5/static/js/2.f62c5963.chunk.js",
+    "static/js/2.f62c5963.chunk.js.map": "/mia-hackathon-5/static/js/2.f62c5963.chunk.js.map",
+    "index.html": "/mia-hackathon-5/index.html",
+    "precache-manifest.15cca75fcbdd9fcc740860feb6aabb71.js": "/mia-hackathon-5/precache-manifest.15cca75fcbdd9fcc740860feb6aabb71.js",
+    "service-worker.js": "/mia-hackathon-5/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/mia-hackathon-5/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/mia-hackathon-5/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d75a164c.js",
+    "static/js/2.f62c5963.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.1b224c6e.chunk.js"
+  ]
+}
