@@ -38,9 +38,9 @@ clickRight = () => {
     return (
       <div className="card-wrapper">
         <div className="carousel">
-        <button onClick={this.clickLeft}>Left</button>
+        <button className="leftbutton" onClick={this.clickLeft}><i className="arrow left"></i></button>
         <img src={this.state.slidesArr[this.state.currentPic]}  alt="carousel" />
-        <button onClick={this.clickRight}>Right</button>
+        <button className="rightbutton" onClick={this.clickRight}><i className="arrow right"></i></button>
         </div>
         <div className="content">
           <h3>Details</h3>
