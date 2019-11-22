@@ -8,11 +8,10 @@ export default function Menu() {
       <p className="logo">CL</p>
 
       <Breadcrumb>
-        <Breadcrumb.Item href="#">Home</Breadcrumb.Item>
-        <Breadcrumb.Item href="https://getbootstrap.com/docs/4.0/components/breadcrumb/">
-          Library
-        </Breadcrumb.Item>
-        <Breadcrumb.Item active>Data</Breadcrumb.Item>
+        <Breadcrumb.Item href="#">general location</Breadcrumb.Item>
+        <Breadcrumb.Item href="#">all areas or a specific area</Breadcrumb.Item>
+        <Breadcrumb.Item>category</Breadcrumb.Item>
+        <Breadcrumb.Item>sub-categories</Breadcrumb.Item>
       </Breadcrumb>
 
       <p>User Icon will be here</p>
