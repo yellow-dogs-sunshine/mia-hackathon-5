@@ -5,7 +5,7 @@ import "./Menu.css";
 export default function Menu() {
   return (
     <Navbar className="navbar-container">
-      <p className="logo">CL</p>
+      <img className="navlogo" src="./craigslist_logo.png" alt="" />
 
       <Breadcrumb>
         <Breadcrumb.Item href="#">general location</Breadcrumb.Item>
