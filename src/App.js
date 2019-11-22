@@ -6,6 +6,9 @@ function App() {
   return (
     <div className="App">
       <h1>Craigslist Mock Up</h1>
+      <nav>
+        <div className="logo">Logo</div>
+      </nav>
     </div>
   );
 }
